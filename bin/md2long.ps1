@@ -72,6 +72,7 @@ $env:LUA_PATH="$FILTERS_PATH/?.lua;;"
 # Resolve globs
 [array]$inputs = foreach ($path in $args) { (Resolve-Path -Path $path).Path }
 
+
 # Run pandoc
 Write-Output "Running Pandoc."
 pandoc --from markdown --to docx `

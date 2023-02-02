@@ -1,8 +1,8 @@
 ---
 title: "Novel Manuscript Format"
 short_title: "Format"
-author: "by Plume de Nom"
-author_lastname: "Nom"
+author: "by Nom de Plume"
+author_lastname: "Plume"
 contact_name: "William Shunn"
 contact_address: "12 Courier Lane"
 contact_city_state_zip: "Pica's Font, NY 10010"
